@@ -1,8 +1,9 @@
 #profile-title: ☬net melli☬
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
-vless://febb4e05-e105-4dde-bb3f-d42074d461ec@79.127.70.83:443?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-79.127.70.83%3A443
-vless://2a363760-265f-4885-a96e-8d9daf0ad5c5@79.127.70.113:2083?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-79.127.70.113%3A2083
 vless://8b7a5c4b-64d9-4a37-888a-70af7eba46f6@62.60.178.234:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-62.60.178.234%3A443
+vless://2a363760-265f-4885-a96e-8d9daf0ad5c5@79.127.70.113:2083?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-79.127.70.113%3A2083
+vless://febb4e05-e105-4dde-bb3f-d42074d461ec@79.127.70.83:443?security=none&encryption=none&host=www.%40FergalVpnMod.net&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-79.127.70.83%3A443
+vless://2d118ae1-e8ea-4e76-939f-4a9460c321c3@194.5.178.153:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-194.5.178.153%3A443
+vless://febb4e05-e105-4dde-bb3f-d42074d461ec@79.127.70.83:443?security=none&encryption=none&host=www.%40client_proo.net&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-79.127.70.83%3A443
 vless://3e566c97-78f4-4b7d-bcfb-8e67106ddbae@212.80.8.157:45764?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-212.80.8.157%3A45764
-vless://e68e7ade-9680-4b54-8ef2-a6cf8289aa58@85.9.127.245:2095?path=%2F-----------------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-------Zigma-Config-----------------&security=none&encryption=none&host=www.speedtest.net&type=ws#%F0%9F%94%92+VL-WS-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-85.9.127.245%3A2095
